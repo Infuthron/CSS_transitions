@@ -26,12 +26,12 @@ body {
 }
 
 .field2 {
-    margin-left: -500px;
+    margin-left: -1000px;
     transition: transform 2s cubic-bezier(1,.15,.53,1.52);
 }
 
 .field-move2 {
-    transform: translateX(520px);
+    transform: translateX(1000px);
 }
 
 .field3{
